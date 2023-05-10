@@ -1,0 +1,2 @@
+## How to create a job on Jenkins using freestyle project
+Open your Jenkins, on the `Dashboard menu`, click on `New Item`, give a name on the `Enter an item name`. Click on `Freestyle project` and click `OK`. This will take you to another page. Click on Apply and then click on Save.
